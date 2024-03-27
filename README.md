@@ -1,2 +1,2 @@
 # SimulationWorld
-Взято из https://zhukovsd.github.io/java-backend-learning-course/
+https://zhukovsd.github.io/java-backend-learning-course/
