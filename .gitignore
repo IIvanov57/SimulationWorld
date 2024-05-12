@@ -9,5 +9,4 @@ target/
 *.iml
 *.ipr
 
-
-SimulationWorld/.idea
+/.idea/
