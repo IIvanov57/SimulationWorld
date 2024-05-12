@@ -7,5 +7,4 @@ target/
 *.iws
 *.iml
 *.ipr
-
-/.idea/
+.idea
